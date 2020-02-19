@@ -98,7 +98,7 @@ Soon
 ### Royal Paladin (100-200)
 | Level | Name                            | Profit                                  | XP                                      |
 | ----- | ------------------------------- | --------------------------------------- | --------------------------------------- |
-| 110+  | [Feyrist Surface @The_Taunter](The_Taunter Scripts/Feyrist Surface/Fae Surface Setup.json) | :star: :star:                               | :star: :star: :star:                    |
+| 110+  | [Feyrist Surface @The_Taunter](Feyrist Surface/Fae Surface Setup.json) | :star: :star:                               | :star: :star: :star:                    |
 | 160+  | [Krailos Giant Spider Cave](krailos_spider_cave/setup_rp.json)       | :star: :star: :star:                    | :star: :star: :star:                    |              
 | 180+  | [Krailos Nightmare](krailos_nightmare/setup_rp.json) | :star:                                  | :star: :star: :star:                    |
 | 180+  | [Hero Old Fortress -1](hero_fortress/setup_rp.json)            | :star:                                  | :star: :star: :star: :star:             |  
